@@ -7,4 +7,11 @@ abstract class Controller
     public function delete(){
         
     }
+
+    public function create(){
+
+    }
+    public function update(){
+        
+    }
 }
